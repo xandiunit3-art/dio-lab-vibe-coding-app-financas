@@ -112,7 +112,76 @@ Feedback visual constante.
 Conteúdo motivacional recorrente.
 12. Considerações Finais
 O Gestão Pessoal XT foi projetado para ser um aplicativo funcional, acessível e altamente útil, atendendo a tantos critérios acadêmicos quanto aos requisitos reais de mercado, com foco em simplicidade, claro e impacto financeiro positivo para o usuário.
-  
+
+  Pocket Pal Finance
+
+Visualizando a última versão salva
+
+
+
+
+Pré-visualização
+
+
+/
+
+
+PRD – Gestão Pessoal XT
+Aplicativo de Finanças Pessoais
+
+1. Visão do Produto
+O Gestão Pessoal XT é um aplicativo de finanças pessoais desenvolvido para oferecer controle financeiro diário e planejamento de metas futuras de forma simples, clara e eficiente.
+
+O aplicativo tem como objetivo principal permitir que o usuário compreenda rapidamente sua situação financeira, acompanhe despesas e ...
+
+Show more
+
+Pensamento para 14s
+Criar um aplicativo de finanças pessoais atraente, com design limpo em branco e laranja, cores semânticas para dados financeiros e todos os recursos principais do seu PRD.
+
+Inspiração de design: Aplicativos fintech modernos como Nubank e Mint - layouts limpos, baseados em cartões, com visualização de dados clara.
+
+Funcionalidades da primeira versão:
+
+Painel com cartões de saldo, despesas e receitas
+Lista de transações com categorias
+Metas financeiras com acompanhamento do progresso
+Calendário mensal com marcadores de transações
+Seção de citações motivacionais
+Navegação limpa
+Sistema de projeto:
+
+Primária: Laranja Quente (#F97316 )
+Fundo: Branco Limpo
+Saldo: Azul, Despesas: Vermelho, Receita: Verde
+Fonte: Sans-serif moderna
+Sombras sutis e animações suaves.
+
+Mostrar tudo
+19 edições feitas
+Primeiro, vou corrigir as variantes dos botões e ler os arquivos necessários:
+
+
+Mostrar tudo
+4 ferramentas utilizadas
+Agora, deixe-me atualizar os arquivos com o conteúdo correto:
+
+
+Mostrar tudo
+4 edições feitas
+Seu aplicativo Gestão Pessoal XT está pronto! Eu criei um aplicativo completo de finanças pessoais com:
+
+Sistema de autenticação : Login/cadastro com recuperação de senha
+Painel : Cartões de saldo (azul), despesas (vermelho) e receitas (verde) com atualizações em tempo real.
+Transações : Adicione/visualize despesas e receitas por categoria com ícones atraentes.
+Metas : Metas financeiras com acompanhamento do progresso (viagens, compras, poupança)
+Calendário : Visão mensal com marcadores de transações e destaque do dia.
+Motivação : Citações aleatórias e recomendações de livros em cada sessão.
+Design : Tema limpo em branco e laranja com animações suaves.
+Qual o próximo passo?
+Aprimore e personalize : ajuste cores, adicione mais categorias ou modifique o layout por meio de sugestões.
+Adicionar persistência : Conecte-se ao Supabase para salvar dados de usuários, transações e objetivos em um banco de dados real.
+
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
