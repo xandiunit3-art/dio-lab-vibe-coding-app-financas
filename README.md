@@ -1,79 +1,118 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Gestão de Finanças Pessoais XT com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
-## ✨ O que é Vibe Coding
+PRD refinado pelo chatgpt – Gestão Pessoal XT
+Aplicativo de Finanças Pessoais
 
-**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
+1. Visão do Produto
+O Gestão Pessoal XT é um aplicativo de finanças pessoais desenvolvido para oferecer controle financeiro diário e planejamento de metas futuras de forma simples, clara e eficiente.
 
-> Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+O aplicativo tem como objetivo principal permitir que o usuário compreenda rapidamente sua situação financeira, acompanhe despesas e receitas, crie metas financeiras e acelere a motivação para melhorar sua organização financeira ao longo do tempo.
 
-## 🎯 Desafio
+2. Problema e Oportunidade
+2.1 Problemas Identificados
+Dificuldade de visualização clara do saldo financeiro.
+Aplicativos financeiros complexos.
+Falta de motivação para manter o hábito de movimentação do registrador.
+Ausência de planejamento financeiro acessível ao usuário comum.
+2.2 Oportunidade
+Crie um aplicativo com esforço baixo cognitivo, interface limpa e informações financeiras propostas de forma contínua e planejada, promovendo o uso e consciente.
 
-Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
+3. Público-Alvo
+Adultos entre 18 e 55 anos.
+Pessoas físicas que desejam organizar suas finanças pessoais.
+Usuários com baixo conhecimento médio em finanças.
+Trabalhadores assalariados, autônomos ou pequenos empreendedores.
 
-Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
+4. Proposta de Valor
+A Gestão Pessoal XT oferece um ambiente simples e intuitivo para controle financeiro e planejamento de metas, combinando claramente visual, praticidade e estímulo motivacional contínuo.
 
-> [!IMPORTANT]
-> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
+Diferenciais:
+Interface limpa e…
+Visualização financeira imediata.
+Planejamento de metas financeiras.
+Conteúdo motivacional recorrente.
 
-## 🪄 Etapas do Desafio
+5. Funcionalidades do MVP
+5.1 Autenticação
+Tela de login com:
+Campo de e-mail.
+Campo de senha.
+Opção de recuperação de senha (“Esqueci minha senha”).
+5.2 Painel Financeiro
+O painel principal deve exibir:
 
-### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
+Saldo atual (cor azul).
+Total de despesas (cor vermelha).
+Total de receitas/ganhos (cor verde).
+Layout simples, com leitura imediata das informações principais.
 
-Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um **PRD (Product Requirements Document)** simplificado, uma especificação que serve como _briefing_ para a IA entender sua ideia.
+5.3 Análise de Movimentos
+Seção “Onde o dinheiro foi gasto”.
+Seção “O que fez o dinheiro entrar”.
+Lista organizada por categoria e dados.
+Atualização automática do saldo.
+5.4 Metas Financeiras
+Criação de metas financeiras futuras.
+Tipos de metas:
+Viagens.
+Compras.
+Reserva financeira.
+Metas personalizadas.
+Definição de valor total da meta.
+Visualização do progresso da meta.
+5.5 Plano Financeiro
+Exibição de calendário mensal.
+Destaque visual para o dia atual.
+Marcações automáticas em todos os dados com movimentações financeiras.
+Visualização histórica de registros financeiros por dados.
+5.6 Aba Motivacional
+Exposição de uma frase motivacional relacionada a finanças pessoais.
+Indicação de um livro de finanças pessoais.
+Frases e livros devem ser diferentes para cada login do usuário.
 
-Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
+6. Identidade Visual
+Cor principal: Branco.
+Cor: Laranja.
+Núcleos semânticos:
+Saldo: Azul.
+Despesas: Vermelho.
+Ganhos: Verde.
+Interface limpa, moderna e sem poluição visual.
 
-```txt
-# Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+7. Requisitos Funcionais
+RF01 – O sistema deve permitir cadastro e autenticação por e-mail e senha. RF02 – O sistema deve permitir a recuperação de senha. RF03 – O sistema deve permitir o registro de despesas. RF04 – O sistema deve permitir o registro de receitas. RF05 – O sistema deve calcular automaticamente o saldo do usuário. RF06 – O sistema deve permitir a criação e acompanhamento de metas financeiras. RF07 – O sistema deve exibir um calendário com marcações de movimentações. RF08 – O sistema deve exibir frases e livros motivacionais diferentes para cada login.
 
-# Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+8. Requisitos Não Funcionais
+RNF01 – A interface deve ser simples e intuitiva. RNF02 – O tempo de resposta deve ser inferior a 2 segundos para ações básicas. RNF03 – Os dados do usuário devem ser armazenados de forma segura. RNF04 – O aplicativo deve ser compatível com dispositivos móveis modernos. RNF05 – O layout deve seguir rigorosamente o padrão de núcleos definido.
 
-# Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
-
-# Funcionalidades-Chave
-1. Registrar gastos via chat em linguagem natural.  
-2. Classificar automaticamente as transações.  
-3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
-
-# Entregável da IA
-Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
-Usar tom educativo e linguagem acessível, em português.
-```
-
-Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
-
-> [!TIP]
-> Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
-
-### 2. Explorando o Lovable na Prática
-
-Com seu PRD pronto e revisado, é hora de colocar a IA em ação. Abra o Lovable, cole seu prompt completo e peça o plano inicial do MVP do seu aplicativo. Como o plano gratuito limita você a 5 interações por dia, seja estratégico:
-- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”;
-- Priorize clareza nas instruções para aproveitar ao máximo cada resposta;
-
-Durante essa etapa, você pode orientar a IA para três entregas principais:
-1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
-2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
-3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
-
-> [!TIP]
-> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
-
-### 3. Entregando o Desafio na DIO
-
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
-
-- Seu **prompt final** (PRD);  
+9. Fluxo do Usuário
+Usuário abre o aplicativo.
+Tela de login com email, senha e recuperação de senha.
+Acesso ao painel financeiro.
+Visualização de saldo, despesas e receitas.
+Registro de movimentações financeiras.
+Acompanhamento de metas.
+Consulta ao calendário financeiro.
+Acesso à aba motivacional.
+10. Métricas de Sucesso (KPIs)
+Taxa de retenção de usuários.
+Frequência de registros financeiros.
+Quantidade de metas criadas.
+Uso recorrente do calendário.
+Tempo médio de sessão.
+11. Riscos e Mitigações
+Riscos
+Baixo engajamento após o primeiro uso.
+Abandono devido à entrada manual de dados.
+Falta de disciplina financeira do usuário.
+Mitigações
+Interface extremamente simples.
+Feedback visual constante.
+Conteúdo motivacional recorrente.
+12. Considerações Finais
+O Gestão Pessoal XT foi projetado para ser um aplicativo funcional, acessível e altamente útil, atendendo a tantos critérios acadêmicos quanto aos requisitos reais de mercado, com foco em simplicidade, claro e impacto financeiro positivo para o usuário.
+  
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
