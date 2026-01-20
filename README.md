@@ -1,4 +1,4 @@
-# 💸 App de Gestão de Finanças Pessoais XT com Vibe Coding
+66666# 💸 App de Gestão de Finanças Pessoais XT com Vibe Coding
 
 
 PRD refinado pelo chatgpt – Gestão Pessoal XT
@@ -113,30 +113,8 @@ Conteúdo motivacional recorrente.
 12. Considerações Finais
 O Gestão Pessoal XT foi projetado para ser um aplicativo funcional, acessível e altamente útil, atendendo a tantos critérios acadêmicos quanto aos requisitos reais de mercado, com foco em simplicidade, claro e impacto financeiro positivo para o usuário.
 
-  Pocket Pal Finance
+### Resposta a este prompt:
 
-Visualizando a última versão salva
-
-
-
-
-Pré-visualização
-
-
-/
-
-
-PRD – Gestão Pessoal XT
-Aplicativo de Finanças Pessoais
-
-1. Visão do Produto
-O Gestão Pessoal XT é um aplicativo de finanças pessoais desenvolvido para oferecer controle financeiro diário e planejamento de metas futuras de forma simples, clara e eficiente.
-
-O aplicativo tem como objetivo principal permitir que o usuário compreenda rapidamente sua situação financeira, acompanhe despesas e ...
-
-Show more
-
-Pensamento para 14s
 Criar um aplicativo de finanças pessoais atraente, com design limpo em branco e laranja, cores semânticas para dados financeiros e todos os recursos principais do seu PRD.
 
 Inspiração de design: Aplicativos fintech modernos como Nubank e Mint - layouts limpos, baseados em cartões, com visualização de dados clara.
@@ -182,7 +160,15 @@ Qual o próximo passo?
 Aprimore e personalize : ajuste cores, adicione mais categorias ou modifique o layout por meio de sugestões.
 Adicionar persistência : Conecte-se ao Supabase para salvar dados de usuários, transações e objetivos em um banco de dados real.
 
-- Prints ou pequenos vídeos das interações com a IA;  
+### Alguns prints:
+<img width="1363" height="632" alt="image" src="https://github.com/user-attachments/assets/e1d8d4ef-b275-4645-b0c3-c14d1aa24a56" />
+<img width="1361" height="626" alt="image" src="https://github.com/user-attachments/assets/b42d6fc7-a70d-4b7b-8de1-88b0a6ccfe83" />
+<img width="1364" height="634" alt="image" src="https://github.com/user-attachments/assets/71a86d61-be51-4871-ac48-9a5a51aa4272" />
+<img width="1364" height="636" alt="image" src="https://github.com/user-attachments/assets/fbf01ec3-6326-4722-9f94-e2f493d96dc5" />
+<img width="1358" height="633" alt="image" src="https://github.com/user-attachments/assets/4c94bf8b-c264-46df-9670-e9cf040c26d5" />
+
+
+ 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
