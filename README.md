@@ -1,4 +1,4 @@
-66666# 💸 App de Gestão de Finanças Pessoais XT com Vibe Coding
+## 💸 App de Gestão de Finanças Pessoais XT com Vibe Coding
 
 
 PRD refinado pelo chatgpt – Gestão Pessoal XT
@@ -167,17 +167,10 @@ Adicionar persistência : Conecte-se ao Supabase para salvar dados de usuários,
 <img width="1364" height="636" alt="image" src="https://github.com/user-attachments/assets/fbf01ec3-6326-4722-9f94-e2f493d96dc5" />
 <img width="1358" height="633" alt="image" src="https://github.com/user-attachments/assets/4c94bf8b-c264-46df-9670-e9cf040c26d5" />
 
+### O que o app Gestão Pessoal XT entrega:
 
+O app e pensado como uma ferramenta de organização financeira mostrando receitas, despesas e o saldo líquido. indicando também todas as movimentações de valores por categoria, além de ter a função de metas/objetivos para pessoa se organizar. O grande diferencial é a postura de conselheiro financeiro que o app propõe, alem da aba do calendário mostrando as movimentações em cada dia correspondente do mês, tem a aba educacional que todos os dias oferece uma frase motivacional com referência a grandes autores e uma indicação de um livro sobre gestão pessoal ou educação financeira. 
  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+### Reflexão sobre o processo:
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+Tive dificuldade no começo para pegar todas as etapas, ja que nunca usei nenhum desses apps, é tanto que escolhe o chatgpt para refinar o prompt por estar mais familiarizado. Mesmo muito empolgado pelo desafio por sempre gostar do assunto tecnologia me esbarrei nesse impercilio, demorei para entregar pois optei em ir com calma em todos os processos e agora concluir. Sobre o app, ficou exatamente como eu imaginei e o uso da IA acelera demais os processos.
